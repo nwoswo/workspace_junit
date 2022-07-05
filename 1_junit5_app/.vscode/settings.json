@@ -1,0 +1,9 @@
+{
+  "java.test.config": [
+    {
+        
+        "vmargs": [ "-DENV=dev" ],
+        "env": { "ENVIRONMENT": "dev" },
+    },
+  ]
+}
